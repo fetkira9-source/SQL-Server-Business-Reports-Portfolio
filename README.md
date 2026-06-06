@@ -25,5 +25,6 @@ Each `.sql` file contains clean, production-ready scripts designed for SQL Serve
 
 ## ✉️ Connect with Me
 If you'd like to discuss data management solutions, ERP optimization, or career opportunities:
-* **LinkedIn:** [Your Name and Surname](PASTE_YOUR_LINKEDIN_URL_HERE)
-* **Email:** your.email@example.com
+* **LinkedIn:** [Leonardo Bezerra](https://www.linkedin.com/in/leonardo-bezerra-4555b4306/)
+* **GitHub:** [fetkira9-source](https://github.com/fetkira9-source)
+* **Email:** leopbezerra@icloud.com
